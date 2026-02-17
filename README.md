@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I am Sumit prajapati. I have a strong passion of coding and developing new stuff! 💻 . Let's connect and collaborate! 🌱
+👋 Hi there! I am Sumit prajapati...
 
 
 ## 🌐 Socials:
