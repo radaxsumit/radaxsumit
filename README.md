@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey, I'm **Sumit** a Web Developer & Designer passionate about building **clean, interactive, and scalable web experiences**.<br><br>🚀 Currently focused on **Full-Stack Development, JavaScript, React & Node.js**<br>🧠 Strengthening my **DSA & problem-solving** skills<br>⚡ Building real-world projects and constantly exploring **AI & modern web technologies**<br>🎯 Goal: Build products that are **useful, fast, and beautifully designed**<br>
+<br>
 
 
 ## 🌐 Socials:
