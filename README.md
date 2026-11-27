@@ -1,11 +1,11 @@
 <!-- ============================  HEADER  ============================ -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f5132,100:00c46a&height=190&section=header&text=Sumit Prajapati&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack Developer • Web Designer&descAlignY=58&descSize=18&animation=fadeIn" alt="Sumit Prajapati" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f5132,100:00c46a&height=190&section=header&text=Sumit%20Prajapati&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20Designer&descAlignY=58&descSize=18&animation=fadeIn" alt="Sumit Prajapati" width="100%" />
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00C46A&center=true&vCenter=true&width=620&lines=I+build+fast%2C+clean+and+useful+web+products.;React+•+Next.js+•+Node.js+•+TypeScript;From+Figma+frame+to+production+deploy.;Currently+shipping+side+projects+%26+sharpening+DSA." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00C46A&center=true&vCenter=true&width=620&lines=I+build+fast%2C+clean+and+useful+web+products.;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;From+Figma+frame+to+production+deploy.;Currently+shipping+side+projects+%26+sharpening+DSA." alt="Typing intro" />
 </a>
 </p>
 
